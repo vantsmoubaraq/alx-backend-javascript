@@ -9,7 +9,7 @@
     "test": "mocha",
     "dev": "nodemon --exec babel-node --presets babel-preset-env"
   },
-  "author": "Raymond Lukwago A.R",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "chai": "^4.3.7",
